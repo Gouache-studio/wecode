@@ -1,4 +1,4 @@
-##깃 사용법 
+## 깃 사용법 
 
 git remote origin 깃저장소주소 
 
